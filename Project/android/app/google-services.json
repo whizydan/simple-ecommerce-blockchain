@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373024204595",
+    "project_id": "final-year-project-v2-46a8a",
+    "storage_bucket": "final-year-project-v2-46a8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373024204595:android:04953f21a3a561d8de4046",
+        "android_client_info": {
+          "package_name": "com.example.shopper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhD-FDpxXVf88YuI_keURNi-hVD9hPONs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
